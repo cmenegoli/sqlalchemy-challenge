@@ -1,10 +1,9 @@
 # sqlalchemy-challenge
 
-"""
 This project uses Python and SQLAlchemy to perform basic data exploration and analysis of an SQLite climate database.
 All analysis is done using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 It also provides an API, designed using Flask, for querying the climate data.
-"""
+
 
 ## Part I: Exploratory Climate Analysis
 
